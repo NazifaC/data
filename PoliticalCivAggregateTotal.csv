@@ -1,0 +1,17 @@
+﻿Country,Admin1,Admin2,ISO3,Admin2 Pcode,Admin1 Pcode,Month,Year,Civ Events,Civ Fatalities,Pol Events,Pol Fatalities,Proportion of Civ Fatalities,Total Events,Total Civ Events,Total Civ Fatalities,Total Poltitical Events,Total Political Fatalities,Total Propotion Civ Fataltities,Event Total
+Palestine,West Bank,Al Quds,PSE,PS0140,PS01,October,2023,18,0,113,11,0,113,310,15,952,64,0.234375,952
+Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,October,2023,28,0,74,2,0,74,400,7,1057,32,0.21875,1057
+Palestine,Gaza Strip,Deir Al- Balah,PSE,PS0265,PS02,October,2023,99,1305,137,1419,0.92,137,2335,11144,4444,12777,0.87219222,4444
+Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,October,2023,244,3384,334,3954,0.86,334,3580,18113,7109,22562,0.802810035,7109
+Palestine,West Bank,Hebron,PSE,PS0150,PS01,October,2023,127,4,211,11,0.36,211,972,24,2072,81,0.296296296,2072
+Palestine,West Bank,Jenin,PSE,PS0101,PS01,October,2023,13,0,97,17,0,97,516,34,1815,343,0.099125364,1815
+Palestine,West Bank,Jericho,PSE,PS0135,PS01,October,2023,15,0,40,6,0,40,189,6,355,25,0.24,355
+Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,October,2023,115,1047,170,1223,0.86,170,2365,9675,5014,12440,0.777733119,5014
+Palestine,West Bank,Nablus,PSE,PS0115,PS01,October,2023,83,7,213,24,0.29,213,1055,23,3325,147,0.156462585,3325
+Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,October,2023,123,1176,191,1422,0.83,191,1335,9360,3284,12576,0.744274809,3284
+Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,October,2023,25,1,63,6,0.17,63,321,14,886,43,0.325581395,886
+Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,October,2023,79,947,112,969,0.98,112,1336,5431,2951,7985,0.680150282,2951
+Palestine,West Bank,Ramallah,PSE,PS0130,PS01,October,2023,69,1,163,14,0.07,163,821,22,1938,85,0.258823529,1938
+Palestine,West Bank,Salfit,PSE,PS0125,PS01,October,2023,37,0,52,0,0,52,419,4,640,9,0.444444444,640
+Palestine,West Bank,Tubas,PSE,PS0105,PS01,October,2023,11,0,38,4,0,38,178,4,597,103,0.038834951,597
+Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,October,2023,15,3,59,22,0.14,59,491,27,1126,252,0.107142857,1126
