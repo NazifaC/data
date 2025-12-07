@@ -1,0 +1,49 @@
+﻿Country,Admin1,Admin2,ISO3,Admin2PCode,Admin1PCode,Month,Year,CivEvents,CivFatalities,PolEvents,PolFatalities,CivFatalitiesProportion,TotalEvents
+Palestine,West Bank,Al Quds,PSE,PS0140,PS01,,2023,31,1,207,24,,207
+Palestine,West Bank,Al Quds,PSE,PS0140,PS01,,2024,148,5,589,51,,589
+Palestine,West Bank,Al Quds,PSE,PS0140,PS01,,2025,162,10,363,13,,363
+Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,,2023,53,1,193,12,,193
+Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,,2024,167,5,500,13,,500
+Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,,2025,180,1,364,8,,364
+Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,,2023,329,3391,554,3525,,554
+Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,,2024,1206,5549,2556,6775,,2556
+Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,,2025,800,2204,1334,2477,,1334
+Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,,2023,638,6933,1171,8902,,1171
+Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,,2024,1368,5581,3420,7269,,3420
+Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,,2025,1574,5599,2518,6391,,2518
+Palestine,West Bank,Hebron,PSE,PS0150,PS01,,2023,198,9,446,32,,446
+Palestine,West Bank,Hebron,PSE,PS0150,PS01,,2024,408,9,884,38,,884
+Palestine,West Bank,Hebron,PSE,PS0150,PS01,,2025,366,6,742,1,,
+Palestine,West Bank,Jenin,PSE,PS0101,PS01,,2023,33,6,298,84,,298
+Palestine,West Bank,Jenin,PSE,PS0101,PS01,,2024,137,18,791,179,,791
+Palestine,West Bank,Jenin,PSE,PS0101,PS01,,2025,346,10,726,80,,726
+Palestine,West Bank,Jericho,PSE,PS0135,PS01,,2023,31,1,92,8,,92
+Palestine,West Bank,Jericho,PSE,PS0135,PS01,,2024,74,5,119,12,,119
+Palestine,West Bank,Jericho,PSE,PS0135,PS01,,2025,84,0,144,5,,144
+Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,,2023,412,3001,771,3367,,771
+Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,,2024,845,3518,2153,5432,,2153
+Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,,2025,1108,3156,2090,3641,,2090
+Palestine,West Bank,Nablus,PSE,PS0115,PS01,,2023,161,8,493,42,,493
+Palestine,West Bank,Nablus,PSE,PS0115,PS01,,2024,449,12,1643,65,,1643
+Palestine,West Bank,Nablus,PSE,PS0115,PS01,,2025,445,3,1189,40,,1189
+Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,,2023,348,4422,703,4672,,703
+Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,,2024,593,3344,1842,5644,,1842
+Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,,2025,394,1794,739,2130,,739
+Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,,2023,55,2,188,12,,188
+Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,,2024,150,7,433,19,,433
+Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,,2025,116,5,265,12,,265
+Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,,2023,215,1701,354,1736,,354
+Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,,2024,738,2328,1938,4674,,1938
+Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,,2025,353,1402,659,1575,,659
+Palestine,West Bank,Ramallah,PSE,PS0130,PS01,,2023,116,1,322,26,,322
+Palestine,West Bank,Ramallah,PSE,PS0130,PS01,,2024,322,10,792,41,,792
+Palestine,West Bank,Ramallah,PSE,PS0130,PS01,,2025,342,11,752,18,,752
+Palestine,West Bank,Salfit,PSE,PS0125,PS01,,2023,64,0,96,1,,96
+Palestine,West Bank,Salfit,PSE,PS0125,PS01,,2024,148,3,257,5,,257
+Palestine,West Bank,Salfit,PSE,PS0125,PS01,,2025,207,1,287,3,,287
+Palestine,West Bank,Tubas,PSE,PS0105,PS01,,2023,26,1,94,21,,94
+Palestine,West Bank,Tubas,PSE,PS0105,PS01,,2024,53,3,263,49,,263
+Palestine,West Bank,Tubas,PSE,PS0105,PS01,,2025,99,0,240,33,,240
+Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,,2023,43,13,189,61,,189
+Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,,2024,114,10,519,174,,519
+Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,,2025,334,4,418,17,,418
