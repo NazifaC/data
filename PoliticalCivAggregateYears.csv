@@ -1,4 +1,4 @@
-﻿Country,Admin1,Admin2,ISO3,Admin2PCode,Admin1PCode,Month,Year,CivEvents,CivFatalities,PolEvents,PolFatalities,CivFatalitiesProportion,TotalEvents
+﻿Country,Admin1,Admin2,ISO3,Admin2PCode,Admin1PCode,Month,Year,CivEvents,CivFatalities,PolEvents,PolFatalities,civFatalitiesProportion,TotalEvents
 Palestine,West Bank,Al Quds,PSE,PS0140,PS01,,2023,31,1,207,24,0.041666667,207
 Palestine,West Bank,Al Quds,PSE,PS0140,PS01,,2024,148,5,589,51,0.098039216,589
 Palestine,West Bank,Al Quds,PSE,PS0140,PS01,,2025,162,10,363,13,0.769230769,363
