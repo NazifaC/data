@@ -1,401 +1,401 @@
-﻿Country,Admin1,Admin2,ISO3,Admin2PCode,Admin1PCode,Month,Year,CivEvents,CivFatalities,PolEvents,PolFatalities,CivFatalitiesProportion,TotalEvents
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,October,2023,18,0,113,11,0,113
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,November,2023,8,0,51,8,0,51
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,December,2023,5,1,43,5,0.2,43
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,January,2024,11,0,39,3,0,39
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,February,2024,7,1,31,6,0.17,31
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,March,2024,12,0,36,3,0,36
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,April,2024,8,0,22,1,0,22
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,May,2024,13,0,29,2,0,29
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,June,2024,13,0,26,0,0,26
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,July,2024,11,0,37,1,0,37
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,August,2024,7,1,31,2,0.5,31
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,September,2024,6,0,32,3,0,32
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,October,2024,12,0,44,2,0,44
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,November,2024,10,1,30,2,0.5,30
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,December,2024,7,1,25,2,0.5,25
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,January,2025,7,1,25,1,1,25
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,February,2025,11,0,31,0,0,31
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,March,2025,16,0,28,1,0,28
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,April,2025,16,0,32,0,0,32
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,May,2025,9,0,26,1,0,26
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,June,2025,20,1,39,2,0.5,39
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,July,2025,17,0,39,0,0,39
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,August,2025,13,0,33,0,0,33
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,September,2025,19,7,48,7,1,48
-Palestine,West Bank,Al Quds,PSE,PS0140,PS01,October,2025,34,1,62,1,1,62
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,October,2023,28,0,74,2,0,74
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,November,2023,13,0,59,7,0,59
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,December,2023,12,1,60,3,0.33,60
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,January,2024,12,0,35,1,0,35
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,February,2024,18,1,44,2,0.5,44
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,March,2024,14,1,43,3,0.33,43
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,April,2024,9,0,32,0,0,32
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,May,2024,14,0,49,0,0,49
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,June,2024,5,0,24,1,0,24
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,July,2024,16,0,40,0,0,40
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,August,2024,15,1,42,3,0.33,42
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,September,2024,19,0,52,0,0,52
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,October,2024,20,0,49,0,0,49
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,November,2024,14,0,57,0,0,57
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,December,2024,11,2,33,2,1,33
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,January,2025,17,0,45,0,0,45
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,February,2025,16,0,42,0,0,42
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,March,2025,12,0,38,0,0,38
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,April,2025,23,1,49,1,1,49
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,May,2025,21,0,42,0,0,42
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,June,2025,12,0,21,1,0,21
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,July,2025,32,0,45,6,0,45
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,August,2025,14,0,23,0,0,23
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,September,2025,17,0,30,0,0,30
-Palestine,West Bank,Bethlehem,PSE,PS0145,PS01,October,2025,16,0,29,0,0,29
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,October,2023,99,1305,137,1419,0.92,137
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,November,2023,111,811,169,815,1,169
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,December,2023,119,1275,248,1291,0.99,248
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,January,2024,123,1301,326,1391,0.94,326
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,February,2024,92,637,203,859,0.74,203
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,March,2024,89,481,236,828,0.58,236
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,April,2024,103,501,230,570,0.88,230
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,May,2024,77,231,194,322,0.72,194
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,June,2024,97,548,206,625,0.88,206
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,July,2024,107,443,205,536,0.83,205
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,August,2024,142,337,245,428,0.79,245
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,September,2024,94,250,176,279,0.9,176
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,October,2024,84,274,185,364,0.75,185
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,November,2024,109,270,184,270,1,184
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,December,2024,89,276,166,303,0.91,166
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,January,2025,80,258,139,281,0.92,139
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,February,2025,8,19,15,19,1,15
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,March,2025,46,114,82,119,0.96,82
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,April,2025,80,172,149,195,0.88,149
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,May,2025,114,313,185,362,0.86,185
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,June,2025,120,280,180,341,0.82,180
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,July,2025,109,379,164,394,0.96,164
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,August,2025,100,277,173,289,0.96,173
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,September,2025,109,323,158,335,0.96,158
-Palestine,Gaza Strip,Deir Al-Balah,PSE,PS0265,PS02,October,2025,34,69,89,142,0.49,89
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,October,2023,244,3384,334,3954,0.86,334
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,November,2023,260,1923,465,2487,0.77,465
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,December,2023,134,1626,372,2461,0.66,372
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,January,2024,91,1140,279,1246,0.91,279
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,February,2024,116,826,310,1027,0.8,310
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,March,2024,149,559,329,807,0.69,329
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,April,2024,102,368,302,405,0.91,302
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,May,2024,126,371,342,576,0.64,342
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,June,2024,123,390,298,574,0.68,298
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,July,2024,146,476,336,638,0.75,336
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,August,2024,87,252,280,514,0.49,280
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,September,2024,93,235,212,369,0.64,212
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,October,2024,107,273,259,321,0.85,259
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,November,2024,99,310,236,352,0.88,236
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,December,2024,129,381,237,440,0.87,237
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,January,2025,117,405,183,429,0.94,183
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,February,2025,19,12,26,12,1,26
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,March,2025,67,305,121,401,0.76,121
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,April,2025,119,387,212,503,0.77,212
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,May,2025,169,445,265,530,0.84,265
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,June,2025,170,792,287,879,0.9,287
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,July,2025,248,1073,367,1220,0.88,367
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,August,2025,227,939,348,1002,0.94,348
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,September,2025,339,1047,489,1115,0.94,489
-Palestine,Gaza Strip,Gaza,PSE,PS0260,PS02,October,2025,99,194,220,300,0.65,220
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,October,2023,127,4,211,11,0.36,211
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,November,2023,44,2,121,12,0.17,121
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,December,2023,27,3,114,9,0.33,114
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,January,2024,37,2,83,11,0.18,83
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,February,2024,34,2,68,3,0.67,68
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,March,2024,35,0,71,1,0,71
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,April,2024,25,1,58,4,0.25,58
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,May,2024,31,0,88,1,0,88
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,June,2024,35,0,73,0,0,73
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,July,2024,43,1,92,5,0.2,92
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,August,2024,34,1,83,3,0.33,83
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,September,2024,48,1,87,6,0.17,87
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,October,2024,33,1,70,2,0.5,70
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,November,2024,34,0,60,1,0,60
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,December,2024,19,0,51,1,0,51
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,January,2025,37,0,78,0,0,78
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,February,2025,22,1,62,3,0.33,62
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,March,2025,45,0,94,0,0,94
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,April,2025,31,0,62,0,0,62
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,May,2025,35,0,82,1,0,82
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,June,2025,31,2,54,2,1,54
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,July,2025,38,3,69,4,0.75,69
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,August,2025,48,0,81,0,0,81
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,September,2025,31,0,70,0,0,70
-Palestine,West Bank,Hebron,PSE,PS0150,PS01,October,2025,48,0,90,1,0,90
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,October,2023,13,0,97,17,0,97
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,November,2023,11,5,118,53,0.09,118
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,December,2023,9,1,83,14,0.07,83
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,January,2024,14,7,86,15,0.47,86
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,February,2024,11,0,66,9,0,66
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,March,2024,11,3,79,13,0.23,79
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,April,2024,13,0,61,2,0,61
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,May,2024,13,0,48,14,0,48
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,June,2024,8,0,59,16,0,59
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,July,2024,17,0,59,12,0,59
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,August,2024,8,0,52,40,0,52
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,September,2024,14,3,75,13,0.23,75
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,October,2024,17,1,62,5,0.2,62
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,November,2024,6,2,76,23,0.09,76
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,December,2024,5,2,68,17,0.12,68
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,January,2025,12,2,92,41,0.05,92
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,February,2025,36,1,85,8,0.13,85
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,March,2025,35,2,56,9,0.22,56
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,April,2025,29,1,75,7,0.14,75
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,May,2025,39,0,84,0,0,84
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,June,2025,35,0,67,1,0,67
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,July,2025,36,2,56,5,0.4,56
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,August,2025,38,0,56,1,0,56
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,September,2025,40,2,74,3,0.67,74
-Palestine,West Bank,Jenin,PSE,PS0101,PS01,October,2025,46,0,81,5,0,81
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,October,2023,15,0,40,6,0,40
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,November,2023,11,1,34,2,0.5,34
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,December,2023,5,0,18,0,0,18
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,January,2024,1,0,7,1,0,7
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,February,2024,4,0,7,0,0,7
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,March,2024,5,0,9,3,0,9
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,April,2024,7,0,11,1,0,11
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,May,2024,10,0,13,0,0,13
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,June,2024,6,0,12,2,0,12
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,July,2024,6,0,8,0,0,8
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,August,2024,10,0,15,0,0,15
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,September,2024,11,4,14,4,1,14
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,October,2024,4,1,6,1,1,6
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,November,2024,4,0,7,0,0,7
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,December,2024,6,0,10,0,0,10
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,January,2025,10,0,13,0,0,13
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,February,2025,8,0,14,0,0,14
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,March,2025,4,0,7,0,0,7
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,April,2025,11,0,20,0,0,20
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,May,2025,13,0,26,1,0,26
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,June,2025,2,0,10,0,0,10
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,July,2025,8,0,14,0,0,14
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,August,2025,11,0,15,1,0,15
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,September,2025,11,0,17,3,0,17
-Palestine,West Bank,Jericho,PSE,PS0135,PS01,October,2025,6,0,8,0,0,8
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,October,2023,115,1047,170,1223,0.86,170
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,November,2023,126,609,188,651,0.94,188
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,December,2023,171,1345,413,1493,0.9,413
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,January,2024,141,1303,416,1776,0.73,416
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,February,2024,112,457,290,855,0.53,290
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,March,2024,68,304,264,687,0.44,264
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,April,2024,31,139,125,164,0.85,125
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,May,2024,25,36,84,45,0.8,84
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,June,2024,33,100,90,100,1,90
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,July,2024,104,294,183,542,0.54,183
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,August,2024,136,318,296,586,0.54,296
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,September,2024,58,126,121,153,0.82,121
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,October,2024,54,184,117,200,0.92,117
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,November,2024,45,187,91,199,0.94,91
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,December,2024,38,70,76,125,0.56,76
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,January,2025,50,99,96,139,0.71,96
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,February,2025,13,33,32,33,1,32
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,March,2025,80,343,148,371,0.92,148
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,April,2025,195,474,294,553,0.86,294
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,May,2025,214,550,342,622,0.88,342
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,June,2025,163,463,371,552,0.84,371
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,July,2025,130,626,290,690,0.91,290
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,August,2025,111,329,228,379,0.87,228
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,September,2025,102,167,167,182,0.92,167
-Palestine,Gaza Strip,Khan Younis,PSE,PS0270,PS02,October,2025,50,72,122,120,0.6,122
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,October,2023,83,7,213,24,0.29,213
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,November,2023,53,1,162,13,0.08,162
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,December,2023,25,0,118,5,0,118
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,January,2024,27,0,101,6,0,101
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,February,2024,26,4,112,8,0.5,112
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,March,2024,44,2,119,4,0.5,119
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,April,2024,36,2,122,7,0.29,122
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,May,2024,43,0,157,4,0,157
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,June,2024,40,0,136,4,0,136
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,July,2024,37,0,164,5,0,164
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,August,2024,38,0,144,3,0,144
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,September,2024,31,2,132,3,0.67,132
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,October,2024,77,0,181,9,0,181
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,November,2024,28,1,123,4,0.25,123
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,December,2024,22,1,152,8,0.13,152
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,January,2025,59,0,145,8,0,145
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,February,2025,27,0,123,4,0,123
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,March,2025,45,1,127,4,0.25,127
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,April,2025,26,0,100,5,0,100
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,May,2025,36,0,112,8,0,112
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,June,2025,47,0,97,2,0,97
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,July,2025,38,0,102,4,0,102
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,August,2025,26,1,77,1,1,77
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,September,2025,49,1,126,2,0.5,126
-Palestine,West Bank,Nablus,PSE,PS0115,PS01,October,2025,92,0,180,2,0,180
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,October,2023,123,1176,191,1422,0.83,191
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,November,2023,145,1894,267,1987,0.95,267
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,December,2023,80,1152,245,1263,0.91,245
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,January,2024,42,345,163,429,0.8,163
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,February,2024,26,81,117,96,0.84,117
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,March,2024,39,130,172,146,0.89,172
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,April,2024,29,233,132,265,0.88,132
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,May,2024,73,361,223,754,0.48,223
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,June,2024,12,40,58,41,0.98,58
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,July,2024,23,54,56,54,1,56
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,August,2024,35,83,104,89,0.93,104
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,September,2024,43,104,104,140,0.74,104
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,October,2024,103,835,263,1858,0.45,263
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,November,2024,93,696,263,1240,0.56,263
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,December,2024,75,382,187,532,0.72,187
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,January,2025,23,84,70,130,0.65,70
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,February,2025,3,3,7,3,1,7
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,March,2025,44,175,83,193,0.91,83
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,April,2025,65,170,99,247,0.69,99
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,May,2025,114,463,174,503,0.92,174
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,June,2025,44,216,96,262,0.82,96
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,July,2025,28,296,86,481,0.62,86
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,August,2025,49,267,77,299,0.89,77
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,September,2025,18,113,30,124,0.91,30
-Palestine,Gaza Strip,North Gaza,PSE,PS0255,PS02,October,2025,6,7,17,18,0.39,17
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,October,2023,25,1,63,6,0.17,63
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,November,2023,16,1,58,2,0.5,58
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,December,2023,14,0,67,4,0,67
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,January,2024,12,0,63,4,0,63
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,February,2024,5,0,34,2,0,34
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,March,2024,14,0,39,0,0,39
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,April,2024,21,0,43,0,0,43
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,May,2024,12,0,44,0,0,44
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,June,2024,4,2,19,5,0.4,19
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,July,2024,16,0,40,0,0,40
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,August,2024,23,2,49,4,0.5,49
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,September,2024,13,0,33,0,0,33
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,October,2024,12,1,27,1,1,27
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,November,2024,10,0,20,0,0,20
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,December,2024,8,2,22,3,0.67,22
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,January,2025,32,3,58,3,1,58
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,February,2025,12,2,33,2,1,33
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,March,2025,14,0,31,2,0,31
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,April,2025,7,0,24,0,0,24
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,May,2025,9,0,20,1,0,20
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,June,2025,7,0,18,0,0,18
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,July,2025,5,0,16,0,0,16
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,August,2025,0,0,7,0,0,7
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,September,2025,13,0,27,4,0,27
-Palestine,West Bank,Qalqilya,PSE,PS0120,PS01,October,2025,17,0,31,0,0,31
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,October,2023,79,947,112,969,0.98,112
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,November,2023,58,263,95,266,0.99,95
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,December,2023,78,491,147,501,0.98,147
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,January,2024,52,219,120,222,0.99,120
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,February,2024,81,426,152,451,0.94,152
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,March,2024,58,201,133,213,0.94,133
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,April,2024,56,322,103,324,0.99,103
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,May,2024,105,274,290,792,0.35,290
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,June,2024,88,203,277,694,0.29,277
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,July,2024,70,151,195,616,0.25,195
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,August,2024,37,95,161,673,0.14,161
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,September,2024,57,136,135,293,0.46,135
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,October,2024,53,110,136,133,0.83,136
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,November,2024,53,92,129,145,0.63,129
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,December,2024,58,99,107,118,0.84,107
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,January,2025,39,83,80,93,0.89,80
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,February,2025,29,50,52,61,0.82,52
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,March,2025,80,176,139,213,0.83,139
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,April,2025,36,59,110,98,0.6,110
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,May,2025,20,44,67,90,0.49,67
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,June,2025,35,370,44,370,1,44
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,July,2025,40,285,53,286,1,53
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,August,2025,31,185,46,197,0.94,46
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,September,2025,31,120,38,127,0.94,38
-Palestine,Gaza Strip,Rafah,PSE,PS0275,PS02,October,2025,12,30,30,40,0.75,30
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,October,2023,69,1,163,14,0.07,163
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,November,2023,29,0,86,10,0,86
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,December,2023,18,0,73,2,0,73
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,January,2024,15,2,60,11,0.18,60
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,February,2024,22,0,69,0,0,69
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,March,2024,24,2,51,9,0.22,51
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,April,2024,27,1,62,3,0.33,62
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,May,2024,32,0,85,1,0,85
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,June,2024,21,0,65,5,0,65
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,July,2024,46,2,101,5,0.4,101
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,August,2024,33,1,71,3,0.33,71
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,September,2024,23,2,61,3,0.67,61
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,October,2024,36,0,67,1,0,67
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,November,2024,22,0,55,0,0,55
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,December,2024,21,0,45,0,0,45
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,January,2025,41,0,72,0,0,72
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,February,2025,25,0,59,0,0,59
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,March,2025,23,0,67,0,0,67
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,April,2025,30,3,59,4,0.75,59
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,May,2025,31,0,98,0,0,98
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,June,2025,36,4,69,5,0.8,69
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,July,2025,39,3,88,4,0.75,88
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,August,2025,33,0,86,1,0,86
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,September,2025,48,0,87,1,0,87
-Palestine,West Bank,Ramallah,PSE,PS0130,PS01,October,2025,77,1,139,3,0.33,139
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,October,2023,37,0,52,0,0,52
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,November,2023,19,0,27,0,0,27
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,December,2023,8,0,17,1,0,17
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,January,2024,7,0,18,0,0,18
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,February,2024,8,0,15,0,0,15
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,March,2024,5,0,11,0,0,11
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,April,2024,10,0,14,0,0,14
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,May,2024,15,0,22,0,0,22
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,June,2024,7,0,12,0,0,12
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,July,2024,10,0,13,0,0,13
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,August,2024,24,2,35,4,0.5,35
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,September,2024,9,0,21,0,0,21
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,October,2024,23,0,41,0,0,41
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,November,2024,21,1,35,1,1,35
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,December,2024,9,0,20,0,0,20
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,January,2025,32,0,41,0,0,41
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,February,2025,12,0,14,0,0,14
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,March,2025,15,0,25,0,0,25
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,April,2025,24,0,36,1,0,36
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,May,2025,36,1,49,2,0.5,49
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,June,2025,9,0,16,0,0,16
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,July,2025,12,0,18,0,0,18
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,August,2025,17,0,23,0,0,23
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,September,2025,17,0,24,0,0,24
-Palestine,West Bank,Salfit,PSE,PS0125,PS01,October,2025,33,0,41,0,0,41
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,October,2023,11,0,38,4,0,38
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,November,2023,13,1,36,5,0.2,36
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,December,2023,2,0,20,12,0,20
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,January,2024,1,0,10,1,0,10
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,February,2024,0,0,20,3,0,20
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,March,2024,6,0,18,0,0,18
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,April,2024,3,0,20,3,0,20
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,May,2024,4,0,27,0,0,27
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,June,2024,3,0,20,1,0,20
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,July,2024,2,1,15,2,0.5,15
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,August,2024,10,1,24,15,0.07,24
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,September,2024,6,1,24,14,0.07,24
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,October,2024,9,0,40,1,0,40
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,November,2024,2,0,17,3,0,17
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,December,2024,7,0,28,6,0,28
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,January,2025,7,0,32,16,0,32
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,February,2025,18,0,30,6,0,30
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,March,2025,6,0,12,1,0,12
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,April,2025,11,0,19,0,0,19
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,May,2025,9,0,22,6,0,22
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,June,2025,8,0,16,1,0,16
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,July,2025,10,0,25,1,0,25
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,August,2025,11,0,20,0,0,20
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,September,2025,12,0,31,2,0,31
-Palestine,West Bank,Tubas,PSE,PS0105,PS01,October,2025,7,0,33,0,0,33
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,October,2023,15,3,59,22,0.14,59
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,November,2023,21,9,75,26,0.35,75
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,December,2023,7,1,55,13,0.08,55
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,January,2024,7,0,44,14,0,44
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,February,2024,8,0,36,5,0,36
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,March,2024,8,6,48,11,0.55,48
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,April,2024,6,0,45,16,0,45
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,May,2024,7,0,48,13,0,48
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,June,2024,6,0,35,6,0,35
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,July,2024,12,0,48,14,0,48
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,August,2024,15,0,49,34,0,49
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,September,2024,6,1,36,11,0.09,36
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,October,2024,24,3,48,33,0.09,48
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,November,2024,12,0,47,3,0,47
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,December,2024,3,0,35,14,0,35
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,January,2025,4,0,38,6,0,38
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,February,2025,35,3,58,8,0.38,58
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,March,2025,34,0,38,0,0,38
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,April,2025,38,0,42,0,0,42
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,May,2025,36,0,38,0,0,38
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,June,2025,38,0,40,1,0,40
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,July,2025,42,1,47,1,1,47
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,August,2025,32,0,32,0,0,32
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,September,2025,31,0,35,0,0,35
-Palestine,West Bank,Tulkarm,PSE,PS0110,PS01,October,2025,44,0,50,1,0,50
+﻿Admin2,ISO,Month,Year,CivEvents,CivFatalities,PolEvents,PolFatalities,CivFatalitiesProportion,TotalEvents
+Jerusalem,PS-JEM,October,2023,18,0,113,11,0,113
+Jerusalem,PS-JEM,November,2023,8,0,51,8,0,51
+Jerusalem,PS-JEM,December,2023,5,1,43,5,0.2,43
+Jerusalem,PS-JEM,January,2024,11,0,39,3,0,39
+Jerusalem,PS-JEM,February,2024,7,1,31,6,0.17,31
+Jerusalem,PS-JEM,March,2024,12,0,36,3,0,36
+Jerusalem,PS-JEM,April,2024,8,0,22,1,0,22
+Jerusalem,PS-JEM,May,2024,13,0,29,2,0,29
+Jerusalem,PS-JEM,June,2024,13,0,26,0,0,26
+Jerusalem,PS-JEM,July,2024,11,0,37,1,0,37
+Jerusalem,PS-JEM,August,2024,7,1,31,2,0.5,31
+Jerusalem,PS-JEM,September,2024,6,0,32,3,0,32
+Jerusalem,PS-JEM,October,2024,12,0,44,2,0,44
+Jerusalem,PS-JEM,November,2024,10,1,30,2,0.5,30
+Jerusalem,PS-JEM,December,2024,7,1,25,2,0.5,25
+Jerusalem,PS-JEM,January,2025,7,1,25,1,1,25
+Jerusalem,PS-JEM,February,2025,11,0,31,0,0,31
+Jerusalem,PS-JEM,March,2025,16,0,28,1,0,28
+Jerusalem,PS-JEM,April,2025,16,0,32,0,0,32
+Jerusalem,PS-JEM,May,2025,9,0,26,1,0,26
+Jerusalem,PS-JEM,June,2025,20,1,39,2,0.5,39
+Jerusalem,PS-JEM,July,2025,17,0,39,0,0,39
+Jerusalem,PS-JEM,August,2025,13,0,33,0,0,33
+Jerusalem,PS-JEM,September,2025,19,7,48,7,1,48
+Jerusalem,PS-JEM,October,2025,34,1,62,1,1,62
+Bethlehem,PS-BTH,October,2023,28,0,74,2,0,74
+Bethlehem,PS-BTH,November,2023,13,0,59,7,0,59
+Bethlehem,PS-BTH,December,2023,12,1,60,3,0.33,60
+Bethlehem,PS-BTH,January,2024,12,0,35,1,0,35
+Bethlehem,PS-BTH,February,2024,18,1,44,2,0.5,44
+Bethlehem,PS-BTH,March,2024,14,1,43,3,0.33,43
+Bethlehem,PS-BTH,April,2024,9,0,32,0,0,32
+Bethlehem,PS-BTH,May,2024,14,0,49,0,0,49
+Bethlehem,PS-BTH,June,2024,5,0,24,1,0,24
+Bethlehem,PS-BTH,July,2024,16,0,40,0,0,40
+Bethlehem,PS-BTH,August,2024,15,1,42,3,0.33,42
+Bethlehem,PS-BTH,September,2024,19,0,52,0,0,52
+Bethlehem,PS-BTH,October,2024,20,0,49,0,0,49
+Bethlehem,PS-BTH,November,2024,14,0,57,0,0,57
+Bethlehem,PS-BTH,December,2024,11,2,33,2,1,33
+Bethlehem,PS-BTH,January,2025,17,0,45,0,0,45
+Bethlehem,PS-BTH,February,2025,16,0,42,0,0,42
+Bethlehem,PS-BTH,March,2025,12,0,38,0,0,38
+Bethlehem,PS-BTH,April,2025,23,1,49,1,1,49
+Bethlehem,PS-BTH,May,2025,21,0,42,0,0,42
+Bethlehem,PS-BTH,June,2025,12,0,21,1,0,21
+Bethlehem,PS-BTH,July,2025,32,0,45,6,0,45
+Bethlehem,PS-BTH,August,2025,14,0,23,0,0,23
+Bethlehem,PS-BTH,September,2025,17,0,30,0,0,30
+Bethlehem,PS-BTH,October,2025,16,0,29,0,0,29
+Deir Al Balah,PS-DEB,October,2023,99,1305,137,1419,0.92,137
+Deir Al Balah,PS-DEB,November,2023,111,811,169,815,1,169
+Deir Al Balah,PS-DEB,December,2023,119,1275,248,1291,0.99,248
+Deir Al Balah,PS-DEB,January,2024,123,1301,326,1391,0.94,326
+Deir Al Balah,PS-DEB,February,2024,92,637,203,859,0.74,203
+Deir Al Balah,PS-DEB,March,2024,89,481,236,828,0.58,236
+Deir Al Balah,PS-DEB,April,2024,103,501,230,570,0.88,230
+Deir Al Balah,PS-DEB,May,2024,77,231,194,322,0.72,194
+Deir Al Balah,PS-DEB,June,2024,97,548,206,625,0.88,206
+Deir Al Balah,PS-DEB,July,2024,107,443,205,536,0.83,205
+Deir Al Balah,PS-DEB,August,2024,142,337,245,428,0.79,245
+Deir Al Balah,PS-DEB,September,2024,94,250,176,279,0.9,176
+Deir Al Balah,PS-DEB,October,2024,84,274,185,364,0.75,185
+Deir Al Balah,PS-DEB,November,2024,109,270,184,270,1,184
+Deir Al Balah,PS-DEB,December,2024,89,276,166,303,0.91,166
+Deir Al Balah,PS-DEB,January,2025,80,258,139,281,0.92,139
+Deir Al Balah,PS-DEB,February,2025,8,19,15,19,1,15
+Deir Al Balah,PS-DEB,March,2025,46,114,82,119,0.96,82
+Deir Al Balah,PS-DEB,April,2025,80,172,149,195,0.88,149
+Deir Al Balah,PS-DEB,May,2025,114,313,185,362,0.86,185
+Deir Al Balah,PS-DEB,June,2025,120,280,180,341,0.82,180
+Deir Al Balah,PS-DEB,July,2025,109,379,164,394,0.96,164
+Deir Al Balah,PS-DEB,August,2025,100,277,173,289,0.96,173
+Deir Al Balah,PS-DEB,September,2025,109,323,158,335,0.96,158
+Deir Al Balah,PS-DEB,October,2025,34,69,89,142,0.49,89
+Gaza,PS-GZA*,October,2023,244,3384,334,3954,0.86,334
+Gaza,PS-GZA*,November,2023,260,1923,465,2487,0.77,465
+Gaza,PS-GZA*,December,2023,134,1626,372,2461,0.66,372
+Gaza,PS-GZA*,January,2024,91,1140,279,1246,0.91,279
+Gaza,PS-GZA*,February,2024,116,826,310,1027,0.8,310
+Gaza,PS-GZA*,March,2024,149,559,329,807,0.69,329
+Gaza,PS-GZA*,April,2024,102,368,302,405,0.91,302
+Gaza,PS-GZA*,May,2024,126,371,342,576,0.64,342
+Gaza,PS-GZA*,June,2024,123,390,298,574,0.68,298
+Gaza,PS-GZA*,July,2024,146,476,336,638,0.75,336
+Gaza,PS-GZA*,August,2024,87,252,280,514,0.49,280
+Gaza,PS-GZA*,September,2024,93,235,212,369,0.64,212
+Gaza,PS-GZA*,October,2024,107,273,259,321,0.85,259
+Gaza,PS-GZA*,November,2024,99,310,236,352,0.88,236
+Gaza,PS-GZA*,December,2024,129,381,237,440,0.87,237
+Gaza,PS-GZA*,January,2025,117,405,183,429,0.94,183
+Gaza,PS-GZA*,February,2025,19,12,26,12,1,26
+Gaza,PS-GZA*,March,2025,67,305,121,401,0.76,121
+Gaza,PS-GZA*,April,2025,119,387,212,503,0.77,212
+Gaza,PS-GZA*,May,2025,169,445,265,530,0.84,265
+Gaza,PS-GZA*,June,2025,170,792,287,879,0.9,287
+Gaza,PS-GZA*,July,2025,248,1073,367,1220,0.88,367
+Gaza,PS-GZA*,August,2025,227,939,348,1002,0.94,348
+Gaza,PS-GZA*,September,2025,339,1047,489,1115,0.94,489
+Gaza,PS-GZA*,October,2025,99,194,220,300,0.65,220
+Hebron,PS-HBN,October,2023,127,4,211,11,0.36,211
+Hebron,PS-HBN,November,2023,44,2,121,12,0.17,121
+Hebron,PS-HBN,December,2023,27,3,114,9,0.33,114
+Hebron,PS-HBN,January,2024,37,2,83,11,0.18,83
+Hebron,PS-HBN,February,2024,34,2,68,3,0.67,68
+Hebron,PS-HBN,March,2024,35,0,71,1,0,71
+Hebron,PS-HBN,April,2024,25,1,58,4,0.25,58
+Hebron,PS-HBN,May,2024,31,0,88,1,0,88
+Hebron,PS-HBN,June,2024,35,0,73,0,0,73
+Hebron,PS-HBN,July,2024,43,1,92,5,0.2,92
+Hebron,PS-HBN,August,2024,34,1,83,3,0.33,83
+Hebron,PS-HBN,September,2024,48,1,87,6,0.17,87
+Hebron,PS-HBN,October,2024,33,1,70,2,0.5,70
+Hebron,PS-HBN,November,2024,34,0,60,1,0,60
+Hebron,PS-HBN,December,2024,19,0,51,1,0,51
+Hebron,PS-HBN,January,2025,37,0,78,0,0,78
+Hebron,PS-HBN,February,2025,22,1,62,3,0.33,62
+Hebron,PS-HBN,March,2025,45,0,94,0,0,94
+Hebron,PS-HBN,April,2025,31,0,62,0,0,62
+Hebron,PS-HBN,May,2025,35,0,82,1,0,82
+Hebron,PS-HBN,June,2025,31,2,54,2,1,54
+Hebron,PS-HBN,July,2025,38,3,69,4,0.75,69
+Hebron,PS-HBN,August,2025,48,0,81,0,0,81
+Hebron,PS-HBN,September,2025,31,0,70,0,0,70
+Hebron,PS-HBN,October,2025,48,0,90,1,0,90
+Jenin,PS-JEN,October,2023,13,0,97,17,0,97
+Jenin,PS-JEN,November,2023,11,5,118,53,0.09,118
+Jenin,PS-JEN,December,2023,9,1,83,14,0.07,83
+Jenin,PS-JEN,January,2024,14,7,86,15,0.47,86
+Jenin,PS-JEN,February,2024,11,0,66,9,0,66
+Jenin,PS-JEN,March,2024,11,3,79,13,0.23,79
+Jenin,PS-JEN,April,2024,13,0,61,2,0,61
+Jenin,PS-JEN,May,2024,13,0,48,14,0,48
+Jenin,PS-JEN,June,2024,8,0,59,16,0,59
+Jenin,PS-JEN,July,2024,17,0,59,12,0,59
+Jenin,PS-JEN,August,2024,8,0,52,40,0,52
+Jenin,PS-JEN,September,2024,14,3,75,13,0.23,75
+Jenin,PS-JEN,October,2024,17,1,62,5,0.2,62
+Jenin,PS-JEN,November,2024,6,2,76,23,0.09,76
+Jenin,PS-JEN,December,2024,5,2,68,17,0.12,68
+Jenin,PS-JEN,January,2025,12,2,92,41,0.05,92
+Jenin,PS-JEN,February,2025,36,1,85,8,0.13,85
+Jenin,PS-JEN,March,2025,35,2,56,9,0.22,56
+Jenin,PS-JEN,April,2025,29,1,75,7,0.14,75
+Jenin,PS-JEN,May,2025,39,0,84,0,0,84
+Jenin,PS-JEN,June,2025,35,0,67,1,0,67
+Jenin,PS-JEN,July,2025,36,2,56,5,0.4,56
+Jenin,PS-JEN,August,2025,38,0,56,1,0,56
+Jenin,PS-JEN,September,2025,40,2,74,3,0.67,74
+Jenin,PS-JEN,October,2025,46,0,81,5,0,81
+Jericho & Al Aghwar,PS-JRH,October,2023,15,0,40,6,0,40
+Jericho & Al Aghwar,PS-JRH,November,2023,11,1,34,2,0.5,34
+Jericho & Al Aghwar,PS-JRH,December,2023,5,0,18,0,0,18
+Jericho & Al Aghwar,PS-JRH,January,2024,1,0,7,1,0,7
+Jericho & Al Aghwar,PS-JRH,February,2024,4,0,7,0,0,7
+Jericho & Al Aghwar,PS-JRH,March,2024,5,0,9,3,0,9
+Jericho & Al Aghwar,PS-JRH,April,2024,7,0,11,1,0,11
+Jericho & Al Aghwar,PS-JRH,May,2024,10,0,13,0,0,13
+Jericho & Al Aghwar,PS-JRH,June,2024,6,0,12,2,0,12
+Jericho & Al Aghwar,PS-JRH,July,2024,6,0,8,0,0,8
+Jericho & Al Aghwar,PS-JRH,August,2024,10,0,15,0,0,15
+Jericho & Al Aghwar,PS-JRH,September,2024,11,4,14,4,1,14
+Jericho & Al Aghwar,PS-JRH,October,2024,4,1,6,1,1,6
+Jericho & Al Aghwar,PS-JRH,November,2024,4,0,7,0,0,7
+Jericho & Al Aghwar,PS-JRH,December,2024,6,0,10,0,0,10
+Jericho & Al Aghwar,PS-JRH,January,2025,10,0,13,0,0,13
+Jericho & Al Aghwar,PS-JRH,February,2025,8,0,14,0,0,14
+Jericho & Al Aghwar,PS-JRH,March,2025,4,0,7,0,0,7
+Jericho & Al Aghwar,PS-JRH,April,2025,11,0,20,0,0,20
+Jericho & Al Aghwar,PS-JRH,May,2025,13,0,26,1,0,26
+Jericho & Al Aghwar,PS-JRH,June,2025,2,0,10,0,0,10
+Jericho & Al Aghwar,PS-JRH,July,2025,8,0,14,0,0,14
+Jericho & Al Aghwar,PS-JRH,August,2025,11,0,15,1,0,15
+Jericho & Al Aghwar,PS-JRH,September,2025,11,0,17,3,0,17
+Jericho & Al Aghwar,PS-JRH,October,2025,6,0,8,0,0,8
+Khan Yunis,PS-KYS,October,2023,115,1047,170,1223,0.86,170
+Khan Yunis,PS-KYS,November,2023,126,609,188,651,0.94,188
+Khan Yunis,PS-KYS,December,2023,171,1345,413,1493,0.9,413
+Khan Yunis,PS-KYS,January,2024,141,1303,416,1776,0.73,416
+Khan Yunis,PS-KYS,February,2024,112,457,290,855,0.53,290
+Khan Yunis,PS-KYS,March,2024,68,304,264,687,0.44,264
+Khan Yunis,PS-KYS,April,2024,31,139,125,164,0.85,125
+Khan Yunis,PS-KYS,May,2024,25,36,84,45,0.8,84
+Khan Yunis,PS-KYS,June,2024,33,100,90,100,1,90
+Khan Yunis,PS-KYS,July,2024,104,294,183,542,0.54,183
+Khan Yunis,PS-KYS,August,2024,136,318,296,586,0.54,296
+Khan Yunis,PS-KYS,September,2024,58,126,121,153,0.82,121
+Khan Yunis,PS-KYS,October,2024,54,184,117,200,0.92,117
+Khan Yunis,PS-KYS,November,2024,45,187,91,199,0.94,91
+Khan Yunis,PS-KYS,December,2024,38,70,76,125,0.56,76
+Khan Yunis,PS-KYS,January,2025,50,99,96,139,0.71,96
+Khan Yunis,PS-KYS,February,2025,13,33,32,33,1,32
+Khan Yunis,PS-KYS,March,2025,80,343,148,371,0.92,148
+Khan Yunis,PS-KYS,April,2025,195,474,294,553,0.86,294
+Khan Yunis,PS-KYS,May,2025,214,550,342,622,0.88,342
+Khan Yunis,PS-KYS,June,2025,163,463,371,552,0.84,371
+Khan Yunis,PS-KYS,July,2025,130,626,290,690,0.91,290
+Khan Yunis,PS-KYS,August,2025,111,329,228,379,0.87,228
+Khan Yunis,PS-KYS,September,2025,102,167,167,182,0.92,167
+Khan Yunis,PS-KYS,October,2025,50,72,122,120,0.6,122
+Nablus,PS-NBS,October,2023,83,7,213,24,0.29,213
+Nablus,PS-NBS,November,2023,53,1,162,13,0.08,162
+Nablus,PS-NBS,December,2023,25,0,118,5,0,118
+Nablus,PS-NBS,January,2024,27,0,101,6,0,101
+Nablus,PS-NBS,February,2024,26,4,112,8,0.5,112
+Nablus,PS-NBS,March,2024,44,2,119,4,0.5,119
+Nablus,PS-NBS,April,2024,36,2,122,7,0.29,122
+Nablus,PS-NBS,May,2024,43,0,157,4,0,157
+Nablus,PS-NBS,June,2024,40,0,136,4,0,136
+Nablus,PS-NBS,July,2024,37,0,164,5,0,164
+Nablus,PS-NBS,August,2024,38,0,144,3,0,144
+Nablus,PS-NBS,September,2024,31,2,132,3,0.67,132
+Nablus,PS-NBS,October,2024,77,0,181,9,0,181
+Nablus,PS-NBS,November,2024,28,1,123,4,0.25,123
+Nablus,PS-NBS,December,2024,22,1,152,8,0.13,152
+Nablus,PS-NBS,January,2025,59,0,145,8,0,145
+Nablus,PS-NBS,February,2025,27,0,123,4,0,123
+Nablus,PS-NBS,March,2025,45,1,127,4,0.25,127
+Nablus,PS-NBS,April,2025,26,0,100,5,0,100
+Nablus,PS-NBS,May,2025,36,0,112,8,0,112
+Nablus,PS-NBS,June,2025,47,0,97,2,0,97
+Nablus,PS-NBS,July,2025,38,0,102,4,0,102
+Nablus,PS-NBS,August,2025,26,1,77,1,1,77
+Nablus,PS-NBS,September,2025,49,1,126,2,0.5,126
+Nablus,PS-NBS,October,2025,92,0,180,2,0,180
+North Gaza,PS-NGZ,October,2023,123,1176,191,1422,0.83,191
+North Gaza,PS-NGZ,November,2023,145,1894,267,1987,0.95,267
+North Gaza,PS-NGZ,December,2023,80,1152,245,1263,0.91,245
+North Gaza,PS-NGZ,January,2024,42,345,163,429,0.8,163
+North Gaza,PS-NGZ,February,2024,26,81,117,96,0.84,117
+North Gaza,PS-NGZ,March,2024,39,130,172,146,0.89,172
+North Gaza,PS-NGZ,April,2024,29,233,132,265,0.88,132
+North Gaza,PS-NGZ,May,2024,73,361,223,754,0.48,223
+North Gaza,PS-NGZ,June,2024,12,40,58,41,0.98,58
+North Gaza,PS-NGZ,July,2024,23,54,56,54,1,56
+North Gaza,PS-NGZ,August,2024,35,83,104,89,0.93,104
+North Gaza,PS-NGZ,September,2024,43,104,104,140,0.74,104
+North Gaza,PS-NGZ,October,2024,103,835,263,1858,0.45,263
+North Gaza,PS-NGZ,November,2024,93,696,263,1240,0.56,263
+North Gaza,PS-NGZ,December,2024,75,382,187,532,0.72,187
+North Gaza,PS-NGZ,January,2025,23,84,70,130,0.65,70
+North Gaza,PS-NGZ,February,2025,3,3,7,3,1,7
+North Gaza,PS-NGZ,March,2025,44,175,83,193,0.91,83
+North Gaza,PS-NGZ,April,2025,65,170,99,247,0.69,99
+North Gaza,PS-NGZ,May,2025,114,463,174,503,0.92,174
+North Gaza,PS-NGZ,June,2025,44,216,96,262,0.82,96
+North Gaza,PS-NGZ,July,2025,28,296,86,481,0.62,86
+North Gaza,PS-NGZ,August,2025,49,267,77,299,0.89,77
+North Gaza,PS-NGZ,September,2025,18,113,30,124,0.91,30
+North Gaza,PS-NGZ,October,2025,6,7,17,18,0.39,17
+Qalqiliya,PS-QQA,October,2023,25,1,63,6,0.17,63
+Qalqiliya,PS-QQA,November,2023,16,1,58,2,0.5,58
+Qalqiliya,PS-QQA,December,2023,14,0,67,4,0,67
+Qalqiliya,PS-QQA,January,2024,12,0,63,4,0,63
+Qalqiliya,PS-QQA,February,2024,5,0,34,2,0,34
+Qalqiliya,PS-QQA,March,2024,14,0,39,0,0,39
+Qalqiliya,PS-QQA,April,2024,21,0,43,0,0,43
+Qalqiliya,PS-QQA,May,2024,12,0,44,0,0,44
+Qalqiliya,PS-QQA,June,2024,4,2,19,5,0.4,19
+Qalqiliya,PS-QQA,July,2024,16,0,40,0,0,40
+Qalqiliya,PS-QQA,August,2024,23,2,49,4,0.5,49
+Qalqiliya,PS-QQA,September,2024,13,0,33,0,0,33
+Qalqiliya,PS-QQA,October,2024,12,1,27,1,1,27
+Qalqiliya,PS-QQA,November,2024,10,0,20,0,0,20
+Qalqiliya,PS-QQA,December,2024,8,2,22,3,0.67,22
+Qalqiliya,PS-QQA,January,2025,32,3,58,3,1,58
+Qalqiliya,PS-QQA,February,2025,12,2,33,2,1,33
+Qalqiliya,PS-QQA,March,2025,14,0,31,2,0,31
+Qalqiliya,PS-QQA,April,2025,7,0,24,0,0,24
+Qalqiliya,PS-QQA,May,2025,9,0,20,1,0,20
+Qalqiliya,PS-QQA,June,2025,7,0,18,0,0,18
+Qalqiliya,PS-QQA,July,2025,5,0,16,0,0,16
+Qalqiliya,PS-QQA,August,2025,0,0,7,0,0,7
+Qalqiliya,PS-QQA,September,2025,13,0,27,4,0,27
+Qalqiliya,PS-QQA,October,2025,17,0,31,0,0,31
+Rafah,PS-RFH,October,2023,79,947,112,969,0.98,112
+Rafah,PS-RFH,November,2023,58,263,95,266,0.99,95
+Rafah,PS-RFH,December,2023,78,491,147,501,0.98,147
+Rafah,PS-RFH,January,2024,52,219,120,222,0.99,120
+Rafah,PS-RFH,February,2024,81,426,152,451,0.94,152
+Rafah,PS-RFH,March,2024,58,201,133,213,0.94,133
+Rafah,PS-RFH,April,2024,56,322,103,324,0.99,103
+Rafah,PS-RFH,May,2024,105,274,290,792,0.35,290
+Rafah,PS-RFH,June,2024,88,203,277,694,0.29,277
+Rafah,PS-RFH,July,2024,70,151,195,616,0.25,195
+Rafah,PS-RFH,August,2024,37,95,161,673,0.14,161
+Rafah,PS-RFH,September,2024,57,136,135,293,0.46,135
+Rafah,PS-RFH,October,2024,53,110,136,133,0.83,136
+Rafah,PS-RFH,November,2024,53,92,129,145,0.63,129
+Rafah,PS-RFH,December,2024,58,99,107,118,0.84,107
+Rafah,PS-RFH,January,2025,39,83,80,93,0.89,80
+Rafah,PS-RFH,February,2025,29,50,52,61,0.82,52
+Rafah,PS-RFH,March,2025,80,176,139,213,0.83,139
+Rafah,PS-RFH,April,2025,36,59,110,98,0.6,110
+Rafah,PS-RFH,May,2025,20,44,67,90,0.49,67
+Rafah,PS-RFH,June,2025,35,370,44,370,1,44
+Rafah,PS-RFH,July,2025,40,285,53,286,1,53
+Rafah,PS-RFH,August,2025,31,185,46,197,0.94,46
+Rafah,PS-RFH,September,2025,31,120,38,127,0.94,38
+Rafah,PS-RFH,October,2025,12,30,30,40,0.75,30
+Ramallah & Al Bireh,PS-RBH*,October,2023,69,1,163,14,0.07,163
+Ramallah & Al Bireh,PS-RBH*,November,2023,29,0,86,10,0,86
+Ramallah & Al Bireh,PS-RBH*,December,2023,18,0,73,2,0,73
+Ramallah & Al Bireh,PS-RBH*,January,2024,15,2,60,11,0.18,60
+Ramallah & Al Bireh,PS-RBH*,February,2024,22,0,69,0,0,69
+Ramallah & Al Bireh,PS-RBH*,March,2024,24,2,51,9,0.22,51
+Ramallah & Al Bireh,PS-RBH*,April,2024,27,1,62,3,0.33,62
+Ramallah & Al Bireh,PS-RBH*,May,2024,32,0,85,1,0,85
+Ramallah & Al Bireh,PS-RBH*,June,2024,21,0,65,5,0,65
+Ramallah & Al Bireh,PS-RBH*,July,2024,46,2,101,5,0.4,101
+Ramallah & Al Bireh,PS-RBH*,August,2024,33,1,71,3,0.33,71
+Ramallah & Al Bireh,PS-RBH*,September,2024,23,2,61,3,0.67,61
+Ramallah & Al Bireh,PS-RBH*,October,2024,36,0,67,1,0,67
+Ramallah & Al Bireh,PS-RBH*,November,2024,22,0,55,0,0,55
+Ramallah & Al Bireh,PS-RBH*,December,2024,21,0,45,0,0,45
+Ramallah & Al Bireh,PS-RBH*,January,2025,41,0,72,0,0,72
+Ramallah & Al Bireh,PS-RBH*,February,2025,25,0,59,0,0,59
+Ramallah & Al Bireh,PS-RBH*,March,2025,23,0,67,0,0,67
+Ramallah & Al Bireh,PS-RBH*,April,2025,30,3,59,4,0.75,59
+Ramallah & Al Bireh,PS-RBH*,May,2025,31,0,98,0,0,98
+Ramallah & Al Bireh,PS-RBH*,June,2025,36,4,69,5,0.8,69
+Ramallah & Al Bireh,PS-RBH*,July,2025,39,3,88,4,0.75,88
+Ramallah & Al Bireh,PS-RBH*,August,2025,33,0,86,1,0,86
+Ramallah & Al Bireh,PS-RBH*,September,2025,48,0,87,1,0,87
+Ramallah & Al Bireh,PS-RBH*,October,2025,77,1,139,3,0.33,139
+Salfit,PS-SLT,October,2023,37,0,52,0,0,52
+Salfit,PS-SLT,November,2023,19,0,27,0,0,27
+Salfit,PS-SLT,December,2023,8,0,17,1,0,17
+Salfit,PS-SLT,January,2024,7,0,18,0,0,18
+Salfit,PS-SLT,February,2024,8,0,15,0,0,15
+Salfit,PS-SLT,March,2024,5,0,11,0,0,11
+Salfit,PS-SLT,April,2024,10,0,14,0,0,14
+Salfit,PS-SLT,May,2024,15,0,22,0,0,22
+Salfit,PS-SLT,June,2024,7,0,12,0,0,12
+Salfit,PS-SLT,July,2024,10,0,13,0,0,13
+Salfit,PS-SLT,August,2024,24,2,35,4,0.5,35
+Salfit,PS-SLT,September,2024,9,0,21,0,0,21
+Salfit,PS-SLT,October,2024,23,0,41,0,0,41
+Salfit,PS-SLT,November,2024,21,1,35,1,1,35
+Salfit,PS-SLT,December,2024,9,0,20,0,0,20
+Salfit,PS-SLT,January,2025,32,0,41,0,0,41
+Salfit,PS-SLT,February,2025,12,0,14,0,0,14
+Salfit,PS-SLT,March,2025,15,0,25,0,0,25
+Salfit,PS-SLT,April,2025,24,0,36,1,0,36
+Salfit,PS-SLT,May,2025,36,1,49,2,0.5,49
+Salfit,PS-SLT,June,2025,9,0,16,0,0,16
+Salfit,PS-SLT,July,2025,12,0,18,0,0,18
+Salfit,PS-SLT,August,2025,17,0,23,0,0,23
+Salfit,PS-SLT,September,2025,17,0,24,0,0,24
+Salfit,PS-SLT,October,2025,33,0,41,0,0,41
+Tubas,PS-TBS,October,2023,11,0,38,4,0,38
+Tubas,PS-TBS,November,2023,13,1,36,5,0.2,36
+Tubas,PS-TBS,December,2023,2,0,20,12,0,20
+Tubas,PS-TBS,January,2024,1,0,10,1,0,10
+Tubas,PS-TBS,February,2024,0,0,20,3,0,20
+Tubas,PS-TBS,March,2024,6,0,18,0,0,18
+Tubas,PS-TBS,April,2024,3,0,20,3,0,20
+Tubas,PS-TBS,May,2024,4,0,27,0,0,27
+Tubas,PS-TBS,June,2024,3,0,20,1,0,20
+Tubas,PS-TBS,July,2024,2,1,15,2,0.5,15
+Tubas,PS-TBS,August,2024,10,1,24,15,0.07,24
+Tubas,PS-TBS,September,2024,6,1,24,14,0.07,24
+Tubas,PS-TBS,October,2024,9,0,40,1,0,40
+Tubas,PS-TBS,November,2024,2,0,17,3,0,17
+Tubas,PS-TBS,December,2024,7,0,28,6,0,28
+Tubas,PS-TBS,January,2025,7,0,32,16,0,32
+Tubas,PS-TBS,February,2025,18,0,30,6,0,30
+Tubas,PS-TBS,March,2025,6,0,12,1,0,12
+Tubas,PS-TBS,April,2025,11,0,19,0,0,19
+Tubas,PS-TBS,May,2025,9,0,22,6,0,22
+Tubas,PS-TBS,June,2025,8,0,16,1,0,16
+Tubas,PS-TBS,July,2025,10,0,25,1,0,25
+Tubas,PS-TBS,August,2025,11,0,20,0,0,20
+Tubas,PS-TBS,September,2025,12,0,31,2,0,31
+Tubas,PS-TBS,October,2025,7,0,33,0,0,33
+Tulkarm,PS-TKM,October,2023,15,3,59,22,0.14,59
+Tulkarm,PS-TKM,November,2023,21,9,75,26,0.35,75
+Tulkarm,PS-TKM,December,2023,7,1,55,13,0.08,55
+Tulkarm,PS-TKM,January,2024,7,0,44,14,0,44
+Tulkarm,PS-TKM,February,2024,8,0,36,5,0,36
+Tulkarm,PS-TKM,March,2024,8,6,48,11,0.55,48
+Tulkarm,PS-TKM,April,2024,6,0,45,16,0,45
+Tulkarm,PS-TKM,May,2024,7,0,48,13,0,48
+Tulkarm,PS-TKM,June,2024,6,0,35,6,0,35
+Tulkarm,PS-TKM,July,2024,12,0,48,14,0,48
+Tulkarm,PS-TKM,August,2024,15,0,49,34,0,49
+Tulkarm,PS-TKM,September,2024,6,1,36,11,0.09,36
+Tulkarm,PS-TKM,October,2024,24,3,48,33,0.09,48
+Tulkarm,PS-TKM,November,2024,12,0,47,3,0,47
+Tulkarm,PS-TKM,December,2024,3,0,35,14,0,35
+Tulkarm,PS-TKM,January,2025,4,0,38,6,0,38
+Tulkarm,PS-TKM,February,2025,35,3,58,8,0.38,58
+Tulkarm,PS-TKM,March,2025,34,0,38,0,0,38
+Tulkarm,PS-TKM,April,2025,38,0,42,0,0,42
+Tulkarm,PS-TKM,May,2025,36,0,38,0,0,38
+Tulkarm,PS-TKM,June,2025,38,0,40,1,0,40
+Tulkarm,PS-TKM,July,2025,42,1,47,1,1,47
+Tulkarm,PS-TKM,August,2025,32,0,32,0,0,32
+Tulkarm,PS-TKM,September,2025,31,0,35,0,0,35
+Tulkarm,PS-TKM,October,2025,44,0,50,1,0,50
